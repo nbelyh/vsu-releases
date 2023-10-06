@@ -47,6 +47,7 @@ A new SuperUtils ribbon is added to Visio with all the new tools to assist you w
 - Convert Comments to Text Boxes
 - Hyperlink report and check
 - Layers report and check
+- Export all embedded images from a document
 - Export all documents as images
 
 #### Pages
@@ -144,6 +145,7 @@ or not available at all unless you edit the ribbon.
 - Up to 50 of your most recently-used stencils listed and easy to reload. Limited to 3 items in the unregistered version.
 
 #### Org Chart Tools
+- Sort Org Chart
 - Headcount - for the Document, page, selection and subordinates.
 - Gives you a total count and sub-totals for each position type e.g. Executive, Manager...
 
